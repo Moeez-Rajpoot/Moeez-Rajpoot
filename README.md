@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **moeezrajput10@gmail.com**
 
-- 📄 Know about my experiences [I am currently Doing BSCS from Air University. I have done many programing courses until now like Data structure | OOP | Assembly language | HTML | CSS | C++ | Java](I am currently Doing BSCS from Air University. I have done many programing courses until now like Data structure | OOP | Assembly language | HTML | CSS | C++ | Java)
+- 📄 Know about my experiences [I am currently Doing BSCS from Air University. I have done many programing courses until now like Data structure | OOP | Assembly language | HTML | CSS | C++ | Java]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
