@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain | WordPress | Android App**
+- 🔭 I’m currently working on **Blockchain Development | Cyber-Security **
 
-- 🌱 I’m currently learning **WordPress |Android App Development | Blockchain**
+- 🌱 I’m currently learning **Network-Security |Web Application-Security | Wifi-Security | System-Security | Ethereum-Blockchain-Development | Smart Contract**
 
-- 👯 I’m looking to collaborate on **Blockchain | WordPress | Android App**
+- 👯 I’m looking to collaborate on **Blockchain Development | Cyber-Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moeez-Rajpoot](https://github.com/Moeez-Rajpoot)
 
 - 📫 How to reach me **moeezrajput10@gmail.com**
 
-- 📄 Know about my experiences [I am currently Doing BSCS from Air University. I have done many programing courses till now like Data structure | OOP | Assembly language | HTML | CSS | C++ | Java]
+- 📄 Know about my experiences [I am currently Doing BSCS from Air University. I have done many Programming Projects till now like on Data structure | OOP | Assembly language | HTML | CSS | C++ | Java]
 
 <img align="right" width="200px" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%;">
 <h3 align="left">Connect with me:</h3>
