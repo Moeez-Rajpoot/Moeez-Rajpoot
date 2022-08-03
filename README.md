@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Development | Cyber-Security **
+- 🔭 I’m currently working on **Blockchain Development | Cyber-Security**
 
 - 🌱 I’m currently learning **Network-Security |Web Application-Security | Wifi-Security | System-Security | Ethereum-Blockchain-Development | Smart Contract**
 
