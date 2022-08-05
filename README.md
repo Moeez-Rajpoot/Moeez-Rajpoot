@@ -2,9 +2,6 @@
 <p align="center" dir="auto">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=2BF736&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile.+;A+Passionate+Blockchain+Developer+And;A+Cyber+Security+Enthusiast." alt="Typing SVG" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeez-rajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="moeez-rajpoot" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain Development | Cyber-Security**
 
