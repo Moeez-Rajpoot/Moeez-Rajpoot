@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeez-Rajpoot)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeez-rajpoot&show_icons=true&locale=en" alt="moeez-rajpoot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moeez-Rajpoot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="moeez-rajpoot" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moeez-Rajpoot&theme=black-ice&hide_border=true&border=DD2727)](https://git.io/streak-stats)
 
