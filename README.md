@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeez-rajpoot&show_icons=true&locale=en" alt="moeez-rajpoot" /></p>
 
-<p>github-readme-streak-stats.herokuapp.com/?user=Moeez-Rajpoot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moeez-Rajpoot&theme=black-ice&hide_border=true&border=DD2727)](https://git.io/streak-stats)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Moeez-Rajpoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
