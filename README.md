@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moeez Rajpoot</h1>
 <p align="center" dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=2BF736&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile.+;A+Passionate+Blockchain+Developer+And;A+Cyber+Security+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=2BF736&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile.+;A+Passionate+Blockchain+Developer+And;A+Cyber+Security+Enthusiast." alt="Typing SVG" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Moeez-Rajpoot&color=blue)
