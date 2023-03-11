@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain Development | Cyber-Security**
 
-- 🌱 I’m currently learning **Network-Security |Web Application-Security | Wifi-Security | System-Security | Ethereum-Blockchain-Development | Smart Contract**
+- 🌱 I’m currently learning **Ethereum-Blockchain-Development | Smart Contract | React-Js | Node-Js | Network-Security | Wifi-Security | System-Security **
 
 - 👯 I’m looking to collaborate on **Blockchain Development | Cyber-Security**
 
