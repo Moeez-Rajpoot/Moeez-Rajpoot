@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ethereum Blockchain Development | ERC-Standards | NFT | Web 3.0 | Metaverse | Solidity**
 
-- 🌱 I’m currently learning **Ethereum-Blockchain-Development | Smart Contract | React-Js | Node-Js | Network-Security | Wifi-Security | System-Security**
+- 🌱 I’m currently learning **Ethereum-Blockchain-Development | Smart Contract | React-Js | Node-Js**
 
 - 👯 I’m looking to collaborate on **Blockchain Development Projects**
 
