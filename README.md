@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Moeez-Rajpoot?tab=repositories)
 
-- 📫 How to reach me **moeezrajput10@gmail.com**
+- 📫 You can reach me using [Gmail](moeezrajput10@gmail.com)
 
 - 📄 Know about my experiences [I am currently Doing BSCS from Air University. I have done many Projects till now like on Data structure | OOP | Assembly language | HTML | CSS | C++ | Java 
 
