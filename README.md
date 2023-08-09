@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moeez-Rajpoot](https://github.com/Moeez-Rajpoot)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Moeez-Rajpoot?tab=repositories)
 
 - 📫 How to reach me **moeezrajput10@gmail.com**
 
@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moeez-Rajpoot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="moeez-rajpoot" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moeez-Rajpoot&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moeez-Rajpoot&theme=black-ice&hide_border=true&background=0B83EB00)](https://git.io/streak-stats)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moeez-Rajpoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
