@@ -33,6 +33,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Moeez-Rajpoot&theme=black-ice&hide_border=true&background=0B83EB00)](https://git.io/streak-stats)
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moeez-Rajpoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
