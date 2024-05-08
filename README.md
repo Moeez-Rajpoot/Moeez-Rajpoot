@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Development Projects**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Moeez-Rajpoot?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://www.moeezkhan.me/#projects)
 
 - 📫 You can reach me using **moeezrajput10@gmail.com**
 
